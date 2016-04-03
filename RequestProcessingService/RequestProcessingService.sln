@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestProcessingService", "RequestProcessingService\RequestProcessingService.csproj", "{A33EA432-0780-4933-8751-6D2E2C8DC321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestProcessingService.IntegrationTests", "RequestProcessingService.IntegrationTests\RequestProcessingService.IntegrationTests.csproj", "{3F6188AB-965C-4978-8974-8FB4E45B1A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33EA432-0780-4933-8751-6D2E2C8DC321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33EA432-0780-4933-8751-6D2E2C8DC321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33EA432-0780-4933-8751-6D2E2C8DC321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33EA432-0780-4933-8751-6D2E2C8DC321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6188AB-965C-4978-8974-8FB4E45B1A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6188AB-965C-4978-8974-8FB4E45B1A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6188AB-965C-4978-8974-8FB4E45B1A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6188AB-965C-4978-8974-8FB4E45B1A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
